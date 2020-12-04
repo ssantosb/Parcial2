@@ -77,7 +77,7 @@ function Pokemons(props) {
                   <FormattedMessage id="Name" />
                 </th>
                 <th >
-                  <FormattedMessage id="Descripion" />
+                  <FormattedMessage id="Description" />
                 </th>
                 <th >
                   <FormattedMessage id="Height" />
